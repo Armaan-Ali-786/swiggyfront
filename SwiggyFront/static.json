@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "public": "build",
+  "routes": {
+    "/**": "index.html"
+  }
+}
